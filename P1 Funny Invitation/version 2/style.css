@@ -1,0 +1,30 @@
+body {
+
+	background-color: pink;
+}
+
+button {
+
+	width: 100px;
+	height: 100px;
+	border-radius: 50%
+}
+
+#yesBut {
+
+	position: relative;
+	top: 50%;
+	left: 30%;
+	background-color: #4CAF50;
+}
+
+#noBut {
+
+	position: relative;
+	top: 50%;
+	left: 55%;
+	background-color: #FF0000;
+}
+
+#yesBut:hover {background-color: #5e3d8e}
+
