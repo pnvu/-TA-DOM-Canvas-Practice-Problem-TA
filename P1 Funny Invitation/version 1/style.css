@@ -1,0 +1,15 @@
+button:hover {background-color: #3e8e41}
+
+#yesBut {
+
+	position: relative;
+	top: 50%;
+	left: 30%;
+}
+
+#noBut {
+
+	position: relative;
+	top: 50%;
+	left: 60%;
+}
