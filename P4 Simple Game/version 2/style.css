@@ -1,0 +1,20 @@
+.pink {
+	background-color: pink;
+}
+
+div {
+	padding: 5px;
+}
+
+button {
+
+	width: 100px;
+	height: 100px;
+	border-radius: 50%
+}
+
+#skill {
+	background-color: #4CAF50;
+}
+
+#skill:hover {background-color: #5e3d8e}
